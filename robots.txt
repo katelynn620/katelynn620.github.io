@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://katelynn620.github.io/hugo-test/sitemap.xml
+Sitemap: https://katelynn620.github.io/sitemap.xml
