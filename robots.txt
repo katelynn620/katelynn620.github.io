@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://katelynn620.github.io/hugo-test/sitemap.xml
